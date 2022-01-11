@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"First serenity test","This test will get the information of all the student","ERROR","2022-01-11T21:49:37.889Z[Europe/London]","0.0","5.39"
+"First serenity test","This is compromised","ERROR","2022-01-11T21:49:43.321Z[Europe/London]","0.0","0.0"
+"First serenity test","This is a test with error","ERROR","2022-01-11T21:49:43.334Z[Europe/London]","0.0","0.01"
+"First serenity test","Get all students","ERROR","2022-01-11T21:49:43.345Z[Europe/London]","0.0","4.11"
